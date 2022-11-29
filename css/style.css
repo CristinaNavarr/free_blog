@@ -37,3 +37,76 @@ img{
         padding: 5px;
     }
 }
+.img1{
+    height: 358px;
+    background-position: center ;
+    background-image: url(../img/foto1.png);
+    background-size: cover;
+}
+.img2{
+    height: 358px;
+    background-position: center ;
+    background-image: url(../img/foto2.png);
+    background-size: cover;
+}.img3{
+    height: 358px;
+    background-position: center ;
+    background-image: url(../img/foto3.png);
+    background-size: cover;
+}.img4{
+    height: 358px;
+    background-position: center ;
+    background-image: url(../img/foto4.png);
+    background-size: cover;
+}.img5{
+    height: 358px;
+    background-position: center ;
+    background-image: url(../img/foto5.png);
+    background-size: cover;
+}
+.img6{
+    height: 358px;
+    background-position: center ;
+    background-image: url(../img/foto6.png);
+    background-size: cover;
+}.img7{
+    height: 358px;
+    background-position: center ;
+    background-image: url(../img/foto7.png);
+    background-size: cover;
+}.img8{
+    height: 358px;
+    background-position: center ;
+    background-image: url(../img/foto8.png);
+    background-size: cover;
+}.img9{
+    height: 358px;
+    background-position: center ;
+    background-image: url(../img/foto9.png);
+    background-size: cover;
+}.img10{
+    height: 358px;
+    background-position: center ;
+    background-image: url(../img/foto10.png);
+    background-size: cover;
+}.img11{
+    height: 358px;
+    background-position: center ;
+    background-image: url(../img/foto11.png);
+    background-size: cover;
+}.img12{
+    height: 358px;
+    background-position: center ;
+    background-image: url(../img/foto12.png);
+    background-size: cover;
+}.img13{
+    height: 358px;
+    background-position: center ;
+    background-image: url(../img/foto13.png);
+    background-size: cover;
+}.img14{
+    height: 358px;
+    background-position: center ;
+    background-image: url(../img/foto14.png);
+    background-size: cover;
+}
