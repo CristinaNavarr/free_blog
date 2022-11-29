@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+
+html{
+    font-family: 'open sans';
+}
+
+.new{
+    width: 73px;
+    height: 35px;
+    padding: 0% 3% 3% 3%;
+    background: #FF5480;
+    border-radius: 10px;
+    height: 22px;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.busqueda{
+    width: 24px;
+    height: 24px;
+    left: 1612px;
+    top: 58px;
+    background: url(../img/search-outline.svg);
+}
+
+img{
+    width: 100%;
+}
+
+.row_2{
+    padding: 30px;
+}
+
+@media (max-width: 600px) {  
+    .column{
+        flex: 100%;
+        padding: 5px;
+    }
+}
