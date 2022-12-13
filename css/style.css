@@ -4,13 +4,12 @@ html{
     font-family: 'open sans';
 }
 
-.new{
+div .new{
     width: 73px;
     height: 35px;
     padding: 0% 3% 3% 3%;
     background: #FF5480;
     border-radius: 10px;
-    height: 22px;
     font-size: 16px;
     color: #FFFFFF;
 }
@@ -27,9 +26,6 @@ img{
     width: 100%;
 }
 
-.row_2{
-    padding: 30px;
-}
 
 @media (max-width: 600px) {  
     .column{
