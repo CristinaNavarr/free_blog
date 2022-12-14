@@ -10,6 +10,9 @@ div .new{
     padding: 0% 3% 3% 3%;
     background: #FF5480;
     border-radius: 10px;
+}
+
+.new .nav-link{
     color: white;
 }
 
