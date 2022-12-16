@@ -18,20 +18,18 @@ div .busqueda{
     width: 26px;
     height: 24px;
     background: url(../img/search-outline.svg);
+    
+}
+
+.logo {
+    background-image: url(../img/titulo2.png);
+    background-repeat: no-repeat;
+
 }
 
 img{
-    width: 100%;
+    width: 3%;
 }
-
-
-@media (max-width: 600px) {  
-    .column{
-        flex: 100%;
-        padding: 5px;
-    }
-}
-
 
 .column {
     height: 358px;
@@ -97,4 +95,32 @@ img{
 
 .navbar-nav li{
     padding: 4px 20px;
+}
+
+.postimg1 {
+    background-image: url(../img/page2.png);
+}
+.imgs{
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 360px;
+    border-radius: 10px;
+    background-position: center;
+}
+.topics {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.topics-hov {
+
+    transition: all .2s ease-in-out;
+
+}
+
+.topics-hov:hover{
+
+    transform: scale(1.3);
 }
